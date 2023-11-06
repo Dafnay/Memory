@@ -1,5 +1,5 @@
 <h1>Memory</h1>
-Application created to practice React and Tailwind
+Responsive application created to practice React and Tailwind, have fun
 
 <h4>  Open and Run the Project:</h4>
    
