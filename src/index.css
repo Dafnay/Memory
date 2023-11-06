@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background{
+    background-color: #f2e4d2;
+}
+
+.button-game{
+    background-color: #f162c6;
+}
+.button-game:hover{
+    background-color: #eda918;
+}
+
+.background-modal{
+    background-color: #f2d8f2b4;
+}
